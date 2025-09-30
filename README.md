@@ -1,2 +1,2 @@
 # demo_repository
-explain collaborative possibilities
+To demonstrate collaborative options.
